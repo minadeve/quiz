@@ -24,7 +24,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && $_POST['action'] === 'save') {
             VALUES ('$soal', '$gozine1', '$gozine2', '$gozine3', '$gozine4', '$correctOption', '$classi', '$sakhti')";
 
     if ($conn->query($sql) === TRUE) {
-        echo "سوال ذخیره شد";
+        echo "سوال ذخیره میشود";
     } else {
         echo "خطا: " . $sql . "<br>" . $conn->error;
     }
