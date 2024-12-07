@@ -3,7 +3,8 @@ $servername = "localhost";
 $username = "root";
 $password = "";
 $dbname = "hdd";
-//open connection
+//open connection for doing somthings in code
+//$conn = new mysqli($servername, $username, $password, $dbname);
 $conn = new mysqli($servername, $username, $password, $dbname);
 if ($conn->connect_error) {
     die("Connection failed: " . $conn->connect_error);
