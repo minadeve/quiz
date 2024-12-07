@@ -16,7 +16,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && $_POST['action'] === 'save') {
     $gozine2 = $_POST['gozine2'];
     $gozine3 = $_POST['gozine3'];
     $gozine4 = $_POST['gozine4'];
-    $correctOption = $_POST['correctOption'];
+    $correctOption = $_POST['correctOption1'];
     echo $correctOption;
     $classi = $_POST['classi'];
     $sakhti = $_POST['sakhti'];
