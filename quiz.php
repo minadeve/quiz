@@ -13,7 +13,7 @@ if ($conn->connect_error) {
 if ($_SERVER['REQUEST_METHOD'] === 'POST' && $_POST['action'] === 'save') {
     $soal = $_POST['soal'];
     $gozine1 = $_POST['g1'];
-    $gozine2 = $_POST['gozine2'];
+    $gozine2 = $_POST['g2'];
     $gozine3 = $_POST['gozine3'];
     $gozine4 = $_POST['gozine4'];
     $correctOption = $_POST['correctOption1'];
