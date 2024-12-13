@@ -1,5 +1,5 @@
 <?php
-//connect to db full
+//connect to db full tb
 $servername = "localhost";
 $username = "root";
 $password = "";
