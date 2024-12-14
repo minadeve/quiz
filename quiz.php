@@ -1,5 +1,5 @@
 <?php
-//connect to db full Toobe
+//connect to db full Toube
 $servername = "localhost";
 $username = "root";
 $password = "";
