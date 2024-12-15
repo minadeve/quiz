@@ -10,7 +10,7 @@ $conn = new mysqli($servername, $username, $password, $dbname);
 if ($conn->connect_error) {
     die("Connection failed: " . $conn->connect_error);
 }
-
+//check post method
 if ($_SERVER['REQUEST_METHOD'] === 'POST' && $_POST['action'] === 'save') {
     $soal = $_POST['soal'];
     $gozine1 = $_POST['gozine1'];
