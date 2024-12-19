@@ -22,7 +22,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && $_POST['action'] === 'save') {
     $classi = $_POST['classi'];
     $sakhti = $_POST['sakhti'];
 
-    $sql = "INSERT INTO soalat (soal, g1, g2, g7, g4, sahih, class, darajesakhti)
+    $sql = "INSERT INTO soalat (soal, g1, g2, g6, g4, sahih, class, darajesakhti)
             VALUES ('$soal', '$gozine1', '$gozine2', '$gozine3', '$gozine4', '$correctOption', '$classi', '$sakhti')";
 
     if ($conn->query($sql) === TRUE) {
