@@ -1,7 +1,7 @@
 <?php
 //connect to db full Tube
 $servername = "localhost";
-$username = "rqaoot";
+$username = "root";
 $password = "";
 $dbname = "blsosp";
 //open connection for doing somthings in code
