@@ -1,5 +1,5 @@
 <?php
-//connect to db full Tube
+//connect to dbi full Tube
 $servername = "localhost";
 $username = "root";
 $password = "";
