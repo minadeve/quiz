@@ -1,5 +1,5 @@
 <?php
-//connect to db full Tube
+//connect to dbs full Tube
 $servername = "localhost";
 $username = "root";
 $password = "";
