@@ -1,5 +1,5 @@
 <?php
-//connect to dbis full Tube
+//connect to dbiss full Tube
 $servername = "localhost";
 $username = "root";
 $password = "";
