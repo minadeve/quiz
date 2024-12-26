@@ -1,7 +1,7 @@
 <?php
 //connect to dbisss full Tube
 $servername = "localhost";
-$username = "roo1t";
+$username = "root";
 $password = "";
 $dbname = "blsosp";
 //open connection for doing somthings in code
