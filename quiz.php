@@ -1,6 +1,6 @@
 <?php
 //connect to dbisss full Tube
-$servername = "localhost";
+$servername = "localhosts";
 $username = "root";
 $password = "";
 $dbname = "blsosp";
