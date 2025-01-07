@@ -2,7 +2,7 @@
 //connect to dbisss full Tube
 $servername = "localhost";
 $username = "root";
-$password = "";
+$password = "a";
 $dbname = "blsosp";
 //open connection for doing somthings in code
 //$conn = new mysqli($servername, $username, $password, $dbname);
