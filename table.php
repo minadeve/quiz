@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Random 130x200 Table</title>
+    <title>Random 230x200 Table</title>
     <style>
         table {
             border-collapse: collapse;
