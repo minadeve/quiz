@@ -8,7 +8,7 @@
         table {
             border-collapse: collapse;
             width: 20%;
-            margin: 35px auto;
+            margin: 15px auto;
             text-align: center;
         }
         td, th {
