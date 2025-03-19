@@ -1,7 +1,7 @@
 <?php
 //connect to dbiz full Tubee
 $servername = "localhost";
-$username = "roots";
+$username = "root";
 $password = "";
 $dbname = "blSsp";
 //open connection for doing somthings in code
