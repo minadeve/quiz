@@ -7,7 +7,7 @@
     <style>
         table {
             border-collapse: collapse;
-            width: 10%;
+            width: 20%;
             margin: 15px auto;
             text-align: center;
         }
